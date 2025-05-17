@@ -4,7 +4,7 @@ A clean, fast, and infinite-mode **Typing Speed Test** web app built using **HTM
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://spped-typingtest.netlify.app/)  
+👉 [Click here to try the app](https://speed-typingtest.netlify.app/)  
 
 
 ---
