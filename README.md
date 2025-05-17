@@ -22,7 +22,7 @@ A clean, fast, and infinite-mode **Typing Speed Test** web app built using **HTM
 
 ## 📸 Preview
 
-![Typing Speed Test Preview](https://via.placeholder.com/800x400?text=Typing+Speed+Test+Preview)
+![Typing Speed Test Preview](preview.png)
 
 ---
 
