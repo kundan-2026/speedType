@@ -37,7 +37,3 @@ A clean, fast, and infinite-mode **Typing Speed Test** web app built using **HTM
 
 **Kundan Kumar**
 
-Feel free to connect with me:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan2026/)
-- [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/kundan-2026)
